@@ -1,2 +1,6 @@
 node_modules
+<<<<<<< HEAD
 upload_project.js
+=======
+/upload_project.js
+>>>>>>> 03d8bf3b7bdb6380e0bda6d32bb494ea728f7064
